@@ -1,6 +1,6 @@
 {
   "name": "@agile-central-technical-services/utils-cancel-store-load",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Overrides to allow canceling the load of the remaining pages of a store",
   "main": "index.js",
   "scripts": {

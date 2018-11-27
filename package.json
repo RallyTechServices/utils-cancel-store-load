@@ -1,0 +1,32 @@
+{
+  "name": "@agile-central-technical-services/utils-cancel-store-load",
+  "version": "0.0.1",
+  "description": "Overrides to allow canceling the load of the remaining pages of a store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RallyTechServices/utils-cancel-store-load.git"
+  },
+  "keywords": [
+    "rally",
+    "agile",
+    "central",
+    "technical",
+    "services",
+    "store",
+    "cancel",
+    "page",
+    "pageable",
+    "load"
+  ],
+  "author": "Tyr Johanson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RallyTechServices/utils-cancel-store-load/issues"
+  },
+  "homepage": "https://github.com/RallyTechServices/utils-cancel-store-load#readme",
+  "dependencies": {}
+}
